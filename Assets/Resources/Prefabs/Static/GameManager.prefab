@@ -3886,7 +3886,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 76.65
+  m_fontSize: 69.95
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -5248,7 +5248,7 @@ MonoBehaviour:
   megaMushroomMusic: {fileID: 11400000, guid: 3fb519076901a294493ae6e0c10c979b, type: 2}
   levelMinTileX: -30
   levelMinTileY: -12
-  levelWidthTile: 50
+  levelWidthTile: 70
   levelHeightTile: 15
   cameraMinY: 0
   cameraHeightY: 0

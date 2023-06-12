@@ -1,0 +1,2477 @@
+fileFormatVersion: 2
+guid: c8a807b648c3e454b8911efcd9cfa510
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cheep-cheep_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 134
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1e63c453fa5424e8034118eb5fc5a1
+      internalID: -919696002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 134
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8a438e972774042910c700369021a6
+      internalID: -1291116261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 134
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529145956e8958247be2256671bb13fd
+      internalID: 1468871147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 134
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a138c9576001e2b4caa84dff4276319b
+      internalID: 740548076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 134
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789013d60cb1aeb43b70c1ab27ed131c
+      internalID: -1900634738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 134
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a04a6286a212c2438377d0e403edb3f
+      internalID: -67207641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 134
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507cc8281d921484bbb2ca962de1e9b1
+      internalID: -116400323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 134
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a517f1898aa4645b42ff3818aaeb9a
+      internalID: -1481125664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 134
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a7965bb4e134b4e81cdb7fd94ff8c4
+      internalID: 1651905698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 134
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85484778c54efcc4bb7e08b5375ee6d8
+      internalID: 235483472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 134
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28956f4711f5ab74a8ff9dac5f60dfbc
+      internalID: 1258508340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_11
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 134
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4b812bed3b13d4993cb9e82a8fc7d5
+      internalID: 1043992814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_12
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 134
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef33c9dc744306469c5c6a826d4e3dc
+      internalID: -987409205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_13
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 134
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df685999b473a014c9fc222322f9a162
+      internalID: -2120200484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_14
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 134
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aefe71ca9f495843917dcaf1fa7f30c
+      internalID: 65277136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28c9042b5d3bf9488b71cb1ddda35f6
+      internalID: 1210238922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 116
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4a510b96ff9904ea2d7aa1963148d8
+      internalID: 1288896663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 116
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f19f998290b1564c879b0dc6bc632a5
+      internalID: -1396043371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 116
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1406ec3f12f7e4741838e058e63f8d7a
+      internalID: -1061480521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_19
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 116
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e4beae9868ff343ba1ed804895b675
+      internalID: -1717875878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 116
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4a67c351a7c884698df0e4837d2cb1
+      internalID: 1254363525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_21
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 116
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658b471b71fa0014f8ebbd7a71e2c9b4
+      internalID: 40652645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 116
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6607de4cc39a6a4e892f9ae3669b662
+      internalID: 1702722774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_23
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 116
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529572559d9506b4a85180008c7e9619
+      internalID: -383923870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_24
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 116
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aeaf4e48e025c549ba4cd9ba201a29d
+      internalID: -168910244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_25
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 116
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032f3f64215f7d74093e181f1e56bed2
+      internalID: -1284195709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 116
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f909ff9c39571ee4c94b91291f0c86f9
+      internalID: 2052421661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_27
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 116
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a89237f55266d84ba2c7dad297be82c
+      internalID: -57806113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 116
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8599b376f9f2ecc408d2b0d5663f06d9
+      internalID: -322307687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_29
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 116
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25cd0d96fb02404e8aa2652acd54eca
+      internalID: 1110318553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0964cf482a66af4db267c5273d71389
+      internalID: -64398734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_31
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 98
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfce8f822b4df245ad31433bcc414c6
+      internalID: -1131571170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_32
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 98
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2c8e3798a5abe46be5e867593464c2
+      internalID: -81125049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_33
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 98
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148be11a3e56fc8448afe3cfc0e1b453
+      internalID: 852762022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_34
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 98
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeab639a60ecc294a97022c771f9469f
+      internalID: -1724420447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 98
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b71c892b0d51442b273aea43648347
+      internalID: -1479335032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_36
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 98
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd2ac450bb357b45836daa388ee1ce6
+      internalID: 2122555087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_37
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 98
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6c82002cd88994187f3935b34242ae
+      internalID: -1494256085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_38
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 98
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f94c81af9939c04988d8cdbfb6b0943
+      internalID: -872419455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_39
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 98
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be67dc34def3ba47a068e951ecc24c0
+      internalID: 1095169482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_40
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 98
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc3d81befd23d046a5d7c206dc0e94c
+      internalID: 350922012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_41
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 98
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bfaa32b2a854d4ba896d735f07fdd7
+      internalID: -1951905863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_42
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 98
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b90e1133fbfb34e91aa7c31e410f77
+      internalID: -1998394569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_43
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 98
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac040010b8b87c48b0a7e21d48a671e
+      internalID: -581570234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_44
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 98
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e505a547f08d2345b9a7493b3b94084
+      internalID: -127937931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 79
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a27d8ee69571f4438091a8ff4dafbce
+      internalID: 791389979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_46
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 79
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1805267853d7c44b45391491026a75
+      internalID: 1379552085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_47
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 79
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df0d31d627281f459b76332bb786e41
+      internalID: -405640073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 79
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e515520acb9133a4eac11d6150350caf
+      internalID: 1485219561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 79
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9551033163ba6c43a063035c44f93a0
+      internalID: 366877721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_50
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 79
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1388ff5f582fa33449221a75f437bb81
+      internalID: 1476675923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_51
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 79
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3bce1d2f872c04d9bdef62fc7753ed
+      internalID: 913714035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_52
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 79
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf7778db0f76ec478f4bdde74f8b6b9
+      internalID: 202989328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_53
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 79
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539d969888888fc499017d3de3c049d5
+      internalID: 1945969010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_54
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 79
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148ad071268c0d645b07ce4cc135f913
+      internalID: 488706498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_55
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 79
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7120b10112fa1794d8fa0b2b70e79c02
+      internalID: -216203580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_56
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 79
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780d776bc14ba634bbae015b5b2b6ab7
+      internalID: 18643861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_57
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 79
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865cc9fe61bb8884ab37c7c706c3a9e1
+      internalID: 697408812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_58
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 79
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702b854299da91a42a4b4233495329d3
+      internalID: 2097333772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_59
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 79
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f383e5f016fc245819a1f8c3f3e4c7
+      internalID: -1252615657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47b381802b258b43961cefa14833c1d
+      internalID: 1737246385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_61
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 53
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8409f18273e134240b2e88a56d01575a
+      internalID: 1001198481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_62
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 53
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1d9ec9730889a4f9874df8ab889f04
+      internalID: -1628701958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_63
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 53
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9078e307021a541be173d98a802edf
+      internalID: -1895073301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_64
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 53
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18ac9fb908bb1941a0fe51e87937b8c
+      internalID: -2057034120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_65
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 53
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fdba2f5b729b341a6ec0ca41044267
+      internalID: 468581111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_66
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 53
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911970687ed7a5749a563eed52522447
+      internalID: -524831406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_67
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 53
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07eb77a93062a8843931ce01e10ac295
+      internalID: 936228650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_68
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 53
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59be0b81120a93e48aa054ae7b4fd25b
+      internalID: -1897931697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_69
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 53
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688bc7cff8a93ad42b4bcd62cbd0c6e1
+      internalID: 1323988047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_70
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 52
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5c5a588100b3e458d28fdbe9a233a1
+      internalID: -835351956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_71
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 52
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dea0f009d56ad4f83af4d10c52bb05
+      internalID: -1216823009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_72
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 51
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d98ec000b6d354d8cda76f5780c7d0
+      internalID: -1695264791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_73
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 51
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2928f769415c4b7459253d2b65027540
+      internalID: -680064383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_74
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 51
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be34ae4b71f7534aaf60658cf2101d5
+      internalID: -440529868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_75
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 51
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed6f9616660eef46b1aaa9a5b327e37
+      internalID: 61728976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_76
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 50
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0da6693726e0fa48a222985b354acb9
+      internalID: 1440385294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_77
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d45e4336ff3d343aea665e95b76c56
+      internalID: -982115023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_78
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 31
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa118c6ab0d335469cf5a121834e344
+      internalID: 1002491212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_79
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 31
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be83cced40851304ca9bff22522f78ea
+      internalID: 1273568706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_80
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 32
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab402bc33870bc7449b38ed5fc83c4ac
+      internalID: 438555226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_81
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 32
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f36810e190a2b04fb73a64f306df773
+      internalID: 834420335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_82
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 31
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e78159516ce4774abd6b530240100f8
+      internalID: -354398268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_83
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 31
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca173f9bf4c15744bae3a164cfb441b
+      internalID: -1356631207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_84
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 30
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2371fef48b968a41bfb26abeb383724
+      internalID: -1333852100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_85
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 30
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9390d4827caa5434a8409fec070c9f96
+      internalID: -112240000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_86
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 30
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e86c2b7f065c05448d01683ab72a02b
+      internalID: 1297372073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_87
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 29
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6e57fcd25b17649b4582a08f397591
+      internalID: -1167497453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_88
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 28
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dbd08cfce0d3047946cd6a9a86b376
+      internalID: 64835357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_89
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 28
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674eee22d6553c345be3feb7759b55e9
+      internalID: -828164339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_90
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 28
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9538c952dfce04082521584e83348f
+      internalID: 842819756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_91
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 27
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1874c40c0ea424dacf5b50618ea6c4
+      internalID: -1670093794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_92
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 27
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a124053d89666314894f8e68ecf43e82
+      internalID: 1408825564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_93
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 28
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4b0f71fa2fc5748834d2045d4dee3d
+      internalID: 1282190004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_94
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38b0e5273a10bc4688f667c90905fdd
+      internalID: 772393938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_95
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 3
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe0c220e3b1c734caf29deea0321844
+      internalID: -1617311302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_96
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db71609bc22dfc04abb8ea26765eda27
+      internalID: 685570024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_97
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 6
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a1836d727b7404c922c942531bf1c6
+      internalID: -617568529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_98
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 7
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061bfa5b3883d914f8591bc742cc6559
+      internalID: -352401588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_99
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 8
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c39d2004bb61f4cbba09b3fd7597c2
+      internalID: 227493356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_100
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 8
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a95a402e7c17b48b92e4247d2c91ca
+      internalID: -1275504108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_101
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 8
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf08ef86442a1e1419b7eadf3c5f66c9
+      internalID: -1683357338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_102
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a24e077b6e5fe141a7c3be158abd175
+      internalID: 1636189931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_103
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 9
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f621a496eaadf4eaa92e0ee32bd3ee
+      internalID: -247767852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_104
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 9
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf0aaedd1152c540a996a524ff9720a
+      internalID: -1306831827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_105
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 9
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec280af8d6ad37847b8a3eba4e1d2da1
+      internalID: 831416492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheep-cheep_106
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 8
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15002e4554bd1734b91f565e45f63aca
+      internalID: -1426100781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cheep-cheep_48: 1485219561
+      cheep-cheep_44: -127937931
+      cheep-cheep_92: 1408825564
+      cheep-cheep_106: -1426100781
+      cheep-cheep_33: 852762022
+      cheep-cheep_85: -112240000
+      cheep-cheep_103: -247767852
+      cheep-cheep_62: -1628701958
+      cheep-cheep_9: 235483472
+      cheep-cheep_60: 1737246385
+      cheep-cheep_6: -116400323
+      cheep-cheep_58: 2097333772
+      cheep-cheep_90: 842819756
+      cheep-cheep_95: -1617311302
+      cheep-cheep_21: 40652645
+      cheep-cheep_59: -1252615657
+      cheep-cheep_2: 1468871147
+      cheep-cheep_61: 1001198481
+      cheep-cheep_102: 1636189931
+      cheep-cheep_99: 227493356
+      cheep-cheep_18: -1061480521
+      cheep-cheep_31: -1131571170
+      cheep-cheep_55: -216203580
+      cheep-cheep_43: -581570234
+      cheep-cheep_10: 1258508340
+      cheep-cheep_53: 1945969010
+      cheep-cheep_16: 1288896663
+      cheep-cheep_38: -872419455
+      cheep-cheep_72: -1695264791
+      cheep-cheep_26: 2052421661
+      cheep-cheep_82: -354398268
+      cheep-cheep_56: 18643861
+      cheep-cheep_104: -1306831827
+      cheep-cheep_12: -987409205
+      cheep-cheep_52: 202989328
+      cheep-cheep_69: 1323988047
+      cheep-cheep_49: 366877721
+      cheep-cheep_20: 1254363525
+      cheep-cheep_3: 740548076
+      cheep-cheep_5: -67207641
+      cheep-cheep_73: -680064383
+      cheep-cheep_36: 2122555087
+      cheep-cheep_84: -1333852100
+      cheep-cheep_37: -1494256085
+      cheep-cheep_105: 831416492
+      cheep-cheep_54: 488706498
+      cheep-cheep_32: -81125049
+      cheep-cheep_64: -2057034120
+      cheep-cheep_71: -1216823009
+      cheep-cheep_79: 1273568706
+      cheep-cheep_98: -352401588
+      cheep-cheep_40: 350922012
+      cheep-cheep_101: -1683357338
+      cheep-cheep_74: -440529868
+      cheep-cheep_87: -1167497453
+      cheep-cheep_97: -617568529
+      cheep-cheep_0: -919696002
+      cheep-cheep_39: 1095169482
+      cheep-cheep_42: -1998394569
+      cheep-cheep_88: 64835357
+      cheep-cheep_86: 1297372073
+      cheep-cheep_29: 1110318553
+      cheep-cheep_65: 468581111
+      cheep-cheep_13: -2120200484
+      cheep-cheep_30: -64398734
+      cheep-cheep_41: -1951905863
+      cheep-cheep_51: 913714035
+      cheep-cheep_78: 1002491212
+      cheep-cheep_25: -1284195709
+      cheep-cheep_28: -322307687
+      cheep-cheep_15: 1210238922
+      cheep-cheep_7: -1481125664
+      cheep-cheep_63: -1895073301
+      cheep-cheep_100: -1275504108
+      cheep-cheep_47: -405640073
+      cheep-cheep_81: 834420335
+      cheep-cheep_14: 65277136
+      cheep-cheep_94: 772393938
+      cheep-cheep_8: 1651905698
+      cheep-cheep_19: -1717875878
+      cheep-cheep_27: -57806113
+      cheep-cheep_22: 1702722774
+      cheep-cheep_34: -1724420447
+      cheep-cheep_35: -1479335032
+      cheep-cheep_11: 1043992814
+      cheep-cheep_76: 1440385294
+      cheep-cheep_68: -1897931697
+      cheep-cheep_57: 697408812
+      cheep-cheep_77: -982115023
+      cheep-cheep_4: -1900634738
+      cheep-cheep_75: 61728976
+      cheep-cheep_1: -1291116261
+      cheep-cheep_50: 1476675923
+      cheep-cheep_80: 438555226
+      cheep-cheep_23: -383923870
+      cheep-cheep_91: -1670093794
+      cheep-cheep_66: -524831406
+      cheep-cheep_83: -1356631207
+      cheep-cheep_93: 1282190004
+      cheep-cheep_46: 1379552085
+      cheep-cheep_89: -828164339
+      cheep-cheep_70: -835351956
+      cheep-cheep_24: -168910244
+      cheep-cheep_96: 685570024
+      cheep-cheep_17: -1396043371
+      cheep-cheep_45: 791389979
+      cheep-cheep_67: 936228650
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
