@@ -96,10 +96,29 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0.55}
+  m_Offset: {x: 0, y: 0.65}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0}
@@ -110,7 +129,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 64, y: 1.4}
+  m_Size: {x: 64, y: 1.5}
   m_EdgeRadius: 0
 --- !u!114 &2500780753419200967
 MonoBehaviour:
@@ -124,6 +143,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0733d35123a9ad4aaf63213211c5b4f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _interpolationDataSource: 0
+  splashPrefab: {fileID: 0}
+  splashExitPrefab: {fileID: 0}
+  mask: {fileID: 0}
   widthTiles: 128
   pointsPerTile: 4
   splashWidth: 1
@@ -132,6 +155,5 @@ MonoBehaviour:
   kconstant: 100
   damping: 0.985
   splashVelocity: 10
-  resistance: 0
   animationSpeed: 9
-  splashParticle: Prefabs/Particle/PoisonWaterSplash
+  liquidType: 0
