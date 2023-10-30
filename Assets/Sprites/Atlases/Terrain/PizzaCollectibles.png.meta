@@ -1,0 +1,4039 @@
+fileFormatVersion: 2
+guid: 547fc36d1521053448819262b0d1c818
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PizzaCollectibles_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 682
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf526510c85a8424c9188d124175aec2
+      internalID: -1302448584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 682
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7efa97415708948a288ffb1288458b
+      internalID: 169172516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 682
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c71aba38b130c479ad4404b4c9e496
+      internalID: 966039978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 682
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96ec1d9d7894854ebefdb67a8743659
+      internalID: 605558206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 682
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553fe7a73afffe3429ca17d77ab9fe4c
+      internalID: -905725217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 682
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c1d5e4f575fb84d9b9463efcca8c91
+      internalID: 10492089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 682
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d925ad75ab9f27746b665e7759c20170
+      internalID: 1701491848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 682
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5e9836e58d94b44bfdecad05291974
+      internalID: 1488554064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_8
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 682
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1e042d8354ff84c80ceddaa6676384
+      internalID: 667662618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 682
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77059c848b6f4654b8e7dbb948a1036c
+      internalID: 2032015976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 682
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea9da34bafcbfb4cb82b7ab8d29f3e2
+      internalID: -602333645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 681
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c882dbb3fd611e746a63a0e711a123a5
+      internalID: -1727105956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_12
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 681
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406b0aabd2abcc949aff4fc68be39dfb
+      internalID: -425967420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 681
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c42d1a63f71f7f449241b53ba622e8b
+      internalID: -902205400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_14
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 682
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f380d8d6ff482649af30af293c39baf
+      internalID: -315225281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 682
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b0f4463bb08744ebd58a4fbbaa935f
+      internalID: -1302157621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 650
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8acd3f95a84ed54d9db39dfa696a78a
+      internalID: -1170335257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_17
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 651
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510b2f0f8fdebe84ab6f1528cf985e27
+      internalID: 491543775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 651
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7378706dc1bf7a46b8958cb60a09688
+      internalID: -1911970230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 651
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc143c1b95ae434fbe6d8ff26f54887
+      internalID: -174079435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 651
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa38d4bf3f19d548a3249e899c0b5a2
+      internalID: -447076965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 651
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55cde0f7d28a9740b0018a418e30c7d
+      internalID: -506139454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_22
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 651
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e3b37cb31c2e941b5e8554d1cd76c0
+      internalID: -888628817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_23
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 651
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31a7489806d49b4eb9c7550dadf40e1
+      internalID: 1420089649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_24
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 651
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a453f0fc39117f44816bb619a0fb47a
+      internalID: -1524686032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 651
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429f08caa4236794b9ed1acdb244e3ec
+      internalID: -622559150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 651
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3790946f77a004c49b9fd51fa176e5a9
+      internalID: -1866519841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_27
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 651
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb555a494ccf6649abbd0e2dae61610
+      internalID: 1481712227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_28
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 651
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34c2959cd7376645b8d71abd9f4fcc1
+      internalID: 1971583814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_29
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 651
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc7a89827443354ea5d1deb56cb88be
+      internalID: 30835118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_30
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 651
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2ae50f87e453241a19d019532f57bc
+      internalID: -2059677039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_31
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 651
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b2d907a89a63d4ebd0d8f124069609
+      internalID: -1858973387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 620
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bbd53551ab1414697261300e49049e
+      internalID: 365218583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_33
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 620
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ef13c0c1402d44587bd69fb27cffe8
+      internalID: 2141760373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 620
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d48dd1ffed4f14d9a2241a849c2dd2
+      internalID: -236783560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 620
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b34b84b9d366cd4197ac84d6614d1ea
+      internalID: 792599261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_36
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 620
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dc9601ae1fbe946af1d4e1d1a7ca01
+      internalID: -1785226229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_37
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 620
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa798a7974b67b3428dc449c85764d10
+      internalID: 1233923334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_38
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 620
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf0f89818c626b408d547b2913ee33f
+      internalID: -1562186837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 620
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc0b31831936924fabf8111be13db7a
+      internalID: 1177067406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_40
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 620
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f432af3aab832524dbfb4584308af3ba
+      internalID: -311328517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_41
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 620
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90c75c9e102a03429308d13cf2755e7
+      internalID: -2067371901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 585
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611694aa4b659714b98ffd6fc7b7fd6a
+      internalID: 615991065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_43
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 588
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a052c3b020645bb4ebd2b4ad5cf61af5
+      internalID: 749214435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_44
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 592
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e72fe7ff1081234999980d496392f7b
+      internalID: 1630519037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_45
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 596
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3c1276dfd29e14d8f62ac8c6cf8ce3
+      internalID: -2002954354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_46
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 602
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c207b6c423da644e98fc65db3fa78cd
+      internalID: -1972568287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_47
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 607
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b5989790197e14b9f310f377c5f514
+      internalID: 1274164826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_48
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd23d9c883d0a54899d5dcd04c71270
+      internalID: 1742613455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_49
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 596
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038e9c75f26d2664a88f02b08cdc0f0a
+      internalID: 1956482637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_50
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 591
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db445d7e6690efc4ba0d0f5bb99ac94a
+      internalID: -2012097053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_51
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 588
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee2986dba28bdc45899816c3c19b15a
+      internalID: -523046019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_52
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 587
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82291269f85af3a418dc9465f436fa76
+      internalID: -443482531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_53
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 588
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96eecb28867d3084fb3722a28957e078
+      internalID: 1272444406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 551
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7eb173cff93c6245a466303369b4225
+      internalID: -1747766996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 551
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ce605211bc70d4f986550376280c45
+      internalID: -1818700415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 551
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b311c9a062b10438b098e96c939851
+      internalID: -940925566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 551
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030175fc04a3e55449672087c03bec53
+      internalID: -1618018664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_58
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 551
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3dd113cf0f7d44691c2d13c6fedeba
+      internalID: 413729993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 551
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edd7003e34120140b5ecb25de736093
+      internalID: -1702384365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_60
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 551
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bd21793a5253145a8d5948833f55b7
+      internalID: -634878971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 551
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d140c57a4eee454eb41ae0bde9f5562
+      internalID: -1873921804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_62
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 551
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1329723549cf245a371ed1aae3cd4d
+      internalID: 1194372925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_63
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 551
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faa7ead88f22cb4baa47e1964ae1045
+      internalID: 1433937275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_64
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 551
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef554a2d92377b4ba2e76371a9485b5
+      internalID: -324393766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_65
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 551
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbff3cbfa8be42f488c0b4c3a9633a2d
+      internalID: 136175807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_66
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 551
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34aa4112835d2a4089918c57497d7de
+      internalID: -1016276834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_67
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 551
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07356f5f9f392ac46a30a2cca87f90fa
+      internalID: -1859772035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_68
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 551
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6466723532593c74fa8eb5cd36142922
+      internalID: -1009574195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_69
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 551
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546ba0ed817179a449880fa361ad49f2
+      internalID: -1971442805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_70
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098eeae2870dc4745a3e5b9a0c2d3b73
+      internalID: 406781065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_71
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 464
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba65d1604751604393fc57a5108a766
+      internalID: 388197198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_72
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 465
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5069cfd6f0332c64184dafc52895815c
+      internalID: 655371657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 465
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f6737a943c8ea4cbc66bcd2ff47520
+      internalID: 1082473845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_74
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 465
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b4b5a0b4efad54fb20d73f23b9be7e
+      internalID: -1574569557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_75
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 465
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a527252571c2a84489e1daa00f6eaf49
+      internalID: 821346165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_76
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 464
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c2e7d4f4e336145973720d77174fc0
+      internalID: 1541610980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_77
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 465
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9749f2be8a038f04cbeb8adb23a749e3
+      internalID: 392316451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_78
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 465
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b630b5aabf79d5245a27069664bd0e66
+      internalID: -837447957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_79
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 465
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4767a6a67abe44f84ef0e598c30f64
+      internalID: 2115937927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_80
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 465
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d76423daba44e04993eadf1a1ca914f
+      internalID: 2146403896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_81
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 465
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd80c1a60515094a8d998f0c55fd8e0
+      internalID: 156430581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_82
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 464
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fea14aab9c6074d98172b2629c9419
+      internalID: 1152413477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_83
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 464
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1ac545e2ce708438fb0560898058b7
+      internalID: -1863535544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_84
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 464
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797c94dc538609f4dba0088cfa114eba
+      internalID: 1815504336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_85
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 464
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc1aec80108e7147b2c51c9d530b1ba
+      internalID: 1415718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_86
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedaa6f07db255947b96a060a3d81264
+      internalID: -1378895463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_87
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 416
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9357b210c005a7347b49ac5e2452d0a0
+      internalID: -1936012360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_88
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 416
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf6723fab7faef4c87df3f4ba6e3c2c
+      internalID: 296332174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_89
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 415
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a1e820d9d027b408dfec5c68d2cf34
+      internalID: -1420583031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_90
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 415
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28589b6efbecffd429bd3459ea505c73
+      internalID: 156234617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_91
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 415
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3000bb1c425393a4a95ff3b7a12817f8
+      internalID: 1718696963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_92
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 415
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261b1835f42ca414f9b846226b4221ea
+      internalID: 1679164640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_93
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 415
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9289715cc31f99341acd4cee1eac17f0
+      internalID: -1959184955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_94
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 415
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcad8d718e76434dbf39c7dc66e9466
+      internalID: -458514837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_95
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 415
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd24cadc299a1d84292e969048a031e5
+      internalID: -158829283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_96
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 415
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a7e64c2803d4e49973967f294158d9
+      internalID: -699767005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_97
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 415
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8cb47fe82cac44fb76a1471c57c547
+      internalID: -1144572964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_98
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 415
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb06e2078fbe6e44a2f01d22e7a30a4
+      internalID: -1603469124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_99
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 415
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55fb051fd54eed4d9b140426f8d19d6
+      internalID: 243644923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_100
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 414
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbba41eb88f2114ca703155f926579c
+      internalID: -1346624512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_101
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 415
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ba1bc73836f4446b9a5c075814b295
+      internalID: 1044941676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_102
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 363
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa40a54c85fe3e34f98d52ad6221709c
+      internalID: 1065176134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_103
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 363
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c67a50450b94a4a9d068a871d8f63a
+      internalID: -1949593779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 364
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9ed9eab64450f47990cba57f5b80e5
+      internalID: 1942125350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_105
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 365
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0fb3a9e59fd094d82c161efd164f17
+      internalID: -525324379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_106
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 365
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a372cc6b10db4d45af4c3d1671693c3
+      internalID: 1439077298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_107
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 365
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac1d62da277f4049bda856c7246714d
+      internalID: -1323566847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_108
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 365
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4538574fdca8014ab7f6ab56fd0e8c3
+      internalID: -44947992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_109
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 365
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99727ea62456024c8014d0412a0f29d
+      internalID: -65475497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_110
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 366
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6467d3acd02b95a48b0e4a5d94668615
+      internalID: -604021798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_111
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 365
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a8c84b6afaf27448fe4138457935f6
+      internalID: -1450873790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_112
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 365
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3ee989f7e47c047b5c85007a076ea3
+      internalID: -1355796144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_113
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 365
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a607281ff6656f1459dd3075c832a18a
+      internalID: 939645184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_114
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 365
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbf9dab6c4a58a4981283029cc9e5c9
+      internalID: 1671387607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_115
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 365
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6437336225fb8e04f9faa4fe8ebffa5c
+      internalID: -1060818817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_116
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 364
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8272efe87d0b650488d5d817f8eeac4f
+      internalID: -380704112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_117
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 363
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41715b7396189a3489b354c5b0b16400
+      internalID: 869358806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_118
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 300
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9c889a8b0cc614e9f23d874d6f34f9
+      internalID: -1698098607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_119
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 299
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240dd84bdc23a3347983ad390d33a08c
+      internalID: -1919229348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_120
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 301
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e946e491f99924598770c28986a5eb
+      internalID: 1583240154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_121
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 297
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b000ed71d67574dbf764279f2266fe
+      internalID: -661595493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_122
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 297
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f616f242d879b14daa2b43f1a9f6259
+      internalID: 812190294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_123
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 297
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebbafaf2e0b6f341868d8ffa1131a6d
+      internalID: -839995346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_124
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 299
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35f1c82e0858d145939aa9d46992cdc
+      internalID: -1825643400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_125
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 300
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d163d4ff7730d4c9b1357a6f5315d0
+      internalID: -2079344727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_126
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 299
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364a301a467639242934aa324e62fb7e
+      internalID: -1151847691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_127
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 300
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de875fb17b6a02448e8a72fcbb622bc
+      internalID: 1471736100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_128
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 299
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaaf7f30ab2cb24da1c480d2d55bd0a
+      internalID: 462332056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_129
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 297
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06464f8378f2be444a186c9b6ce9ce15
+      internalID: -2082901547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_130
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 297
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7938fafec6c45b840a7b6b5500cd565a
+      internalID: -1564987905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_131
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 297
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9a83ffdcab4404fafc6e003b826e22
+      internalID: 715623708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_132
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 301
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2841adf4f9be6a4b92bbb092e2b56f0
+      internalID: 347724367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_133
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 299
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a4faf9f450a0c488dfa2187ec58505
+      internalID: -340634291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_134
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 235
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ada878daf2e81d41a1cd00b56745633
+      internalID: -834928125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_135
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 235
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c06feb798c62f4fad6963babcc196f
+      internalID: 1941869675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_136
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 235
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9171f6d771b44fd4a97e4ffc7ad8e294
+      internalID: -1492846633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_137
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 234
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f120bdf409c6f4c8313bb476abff05
+      internalID: 637930986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_138
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 234
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946604efddf073a42861f5df57756297
+      internalID: -663074633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_139
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 234
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a59d1d4a6cecc489226ed169238e57
+      internalID: -956261853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_140
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 235
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae027fc8cbd49d4489c2bbb73939039
+      internalID: -141073537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_141
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 235
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3077e37c450cd8d41a6b86ec684328e3
+      internalID: -142070920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_142
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 173
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffa992ee1392dd4fa9ed2c553a8a53f
+      internalID: -1981829103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_143
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 173
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c14d1ea8fff8a4eb75f9ec0e888c0a
+      internalID: 2014534354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_144
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 173
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5b047bc47d3b745839e590811b6955
+      internalID: -1819465741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_145
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 173
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfaf5a4499c85348b72f13f94b4160a
+      internalID: 71059249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_146
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 171
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce5176bac1d2264791199e14b61eee6
+      internalID: -1825140429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_147
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 171
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005e59654d4eb90419a9b5593a4bc6fe
+      internalID: -807694734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_148
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 171
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fde002bd5d3b348ad53383c04ad2e4
+      internalID: -713707914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_149
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 171
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077aa57c7ad972d4390d619508ddba32
+      internalID: 1965348696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 173
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf2ed53f8dd8454c8e3706840067003
+      internalID: -1852681564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_151
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 173
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83de810b9392d3468e06cdbc7919b08
+      internalID: -537735739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_152
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 89
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72da3863f53c6a4c8cda4b1b4114dac
+      internalID: -172346760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_153
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 89
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e57079d464132347bf006bd97b2df96
+      internalID: 2130541037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_154
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 88
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a78ce1f169a2d94b954484b8b5134a0
+      internalID: -1348411573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_155
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 89
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8385da2672271484fb6b0b473f354529
+      internalID: -30426449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_156
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 87
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe082356016deb4489f9f0e221b7a4b5
+      internalID: 1462857297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_157
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 86
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be3f5638a83bf441b005ebdc8592ad3
+      internalID: 1829750841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_158
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 85
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eae5ffc813f80a45b0f44fc00cc7454
+      internalID: -1447296951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_159
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 86
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202cb4dc989c4c84abaedbf27e9f61d5
+      internalID: 446781838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_160
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 85
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db46463cbcfd644691599af1e65f7c2
+      internalID: -1845694565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_161
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 86
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a323a5020e34d84b8f701f4688a2cd6
+      internalID: 2143959437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_162
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 87
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60cbcf85f1dacb4c8fb9888065f6ce4
+      internalID: -672914144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_163
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 88
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ed6a33ad8b869488533f0f30b3e696
+      internalID: -1745342942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_164
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 89
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea3a1aa30f9f9c4aaf9063abf275c76
+      internalID: 1225282812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_165
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 89
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3490852be2a2601449273b9fa9ad1649
+      internalID: 647795895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_166
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 88
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf4f678dc1e324429cd9a7483ea3355
+      internalID: 863516986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_167
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 89
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8239f6ad0bbcd3942bb55083bc367175
+      internalID: -256474839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_168
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 86
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07a05f73df4f144f800bd3573edd392
+      internalID: -1059954723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_169
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 85
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0260f8fae9833554cbf2ae64a4ccf535
+      internalID: 28180120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_170
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 86
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e230dd8fe0a9140904b58f6f5812f9
+      internalID: 226901066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_171
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 85
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52f923327a2d8c4faff2a29feaa5411
+      internalID: -2125920070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_172
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 86
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf8b46d214461d45b37a6730f9e695a
+      internalID: 723975686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_173
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 87
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5a6387d3073c146bc6b0a0a89bd9e8
+      internalID: 1911803727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_174
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 88
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa07ed61e637344c8c5a3540438e8ec
+      internalID: -867980030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_175
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 26
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fd9025a19ed3f45b0af379cbe3bff3
+      internalID: 1532355807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_176
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 27
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07d3f38af387754c9e47e7b58051721
+      internalID: -1109850481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaCollectibles_177
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 25
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be69e15a8a138d64d89c8e644e9b9c88
+      internalID: 1871769082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PizzaCollectibles_42: 615991065
+      PizzaCollectibles_171: -2125920070
+      PizzaCollectibles_41: -2067371901
+      PizzaCollectibles_108: -44947992
+      PizzaCollectibles_177: 1871769082
+      PizzaCollectibles_114: 1671387607
+      PizzaCollectibles_101: 1044941676
+      PizzaCollectibles_174: -867980030
+      PizzaCollectibles_128: 462332056
+      PizzaCollectibles_69: -1971442805
+      PizzaCollectibles_149: 1965348696
+      PizzaCollectibles_166: 863516986
+      PizzaCollectibles_151: -537735739
+      PizzaCollectibles_153: 2130541037
+      PizzaCollectibles_170: 226901066
+      PizzaCollectibles_173: 1911803727
+      PizzaCollectibles_131: 715623708
+      PizzaCollectibles_123: -839995346
+      PizzaCollectibles_117: 869358806
+      PizzaCollectibles_135: 1941869675
+      PizzaCollectibles_0: -1302448584
+      PizzaCollectibles_50: -2012097053
+      PizzaCollectibles_25: -622559150
+      PizzaCollectibles_84: 1815504336
+      PizzaCollectibles_55: -1818700415
+      PizzaCollectibles_78: -837447957
+      PizzaCollectibles_49: 1956482637
+      PizzaCollectibles_93: -1959184955
+      PizzaCollectibles_158: -1447296951
+      PizzaCollectibles_89: -1420583031
+      PizzaCollectibles_102: 1065176134
+      PizzaCollectibles_13: -902205400
+      PizzaCollectibles_157: 1829750841
+      PizzaCollectibles_33: 2141760373
+      PizzaCollectibles_64: -324393766
+      PizzaCollectibles_14: -315225281
+      PizzaCollectibles_100: -1346624512
+      PizzaCollectibles_176: -1109850481
+      PizzaCollectibles_22: -888628817
+      PizzaCollectibles_31: -1858973387
+      PizzaCollectibles_61: -1873921804
+      PizzaCollectibles_90: 156234617
+      PizzaCollectibles_62: 1194372925
+      PizzaCollectibles_6: 1701491848
+      PizzaCollectibles_87: -1936012360
+      PizzaCollectibles_36: -1785226229
+      PizzaCollectibles_29: 30835118
+      PizzaCollectibles_1: 169172516
+      PizzaCollectibles_116: -380704112
+      PizzaCollectibles_8: 667662618
+      PizzaCollectibles_3: 605558206
+      PizzaCollectibles_129: -2082901547
+      PizzaCollectibles_12: -425967420
+      PizzaCollectibles_175: 1532355807
+      PizzaCollectibles_40: -311328517
+      PizzaCollectibles_134: -834928125
+      PizzaCollectibles_155: -30426449
+      PizzaCollectibles_75: 821346165
+      PizzaCollectibles_103: -1949593779
+      PizzaCollectibles_127: 1471736100
+      PizzaCollectibles_60: -634878971
+      PizzaCollectibles_136: -1492846633
+      PizzaCollectibles_163: -1745342942
+      PizzaCollectibles_30: -2059677039
+      PizzaCollectibles_168: -1059954723
+      PizzaCollectibles_72: 655371657
+      PizzaCollectibles_167: -256474839
+      PizzaCollectibles_80: 2146403896
+      PizzaCollectibles_142: -1981829103
+      PizzaCollectibles_24: -1524686032
+      PizzaCollectibles_115: -1060818817
+      PizzaCollectibles_19: -174079435
+      PizzaCollectibles_120: 1583240154
+      PizzaCollectibles_39: 1177067406
+      PizzaCollectibles_48: 1742613455
+      PizzaCollectibles_53: 1272444406
+      PizzaCollectibles_57: -1618018664
+      PizzaCollectibles_107: -1323566847
+      PizzaCollectibles_81: 156430581
+      PizzaCollectibles_20: -447076965
+      PizzaCollectibles_79: 2115937927
+      PizzaCollectibles_16: -1170335257
+      PizzaCollectibles_148: -713707914
+      PizzaCollectibles_47: 1274164826
+      PizzaCollectibles_139: -956261853
+      PizzaCollectibles_86: -1378895463
+      PizzaCollectibles_27: 1481712227
+      PizzaCollectibles_126: -1151847691
+      PizzaCollectibles_65: 136175807
+      PizzaCollectibles_95: -158829283
+      PizzaCollectibles_97: -1144572964
+      PizzaCollectibles_119: -1919229348
+      PizzaCollectibles_37: 1233923334
+      PizzaCollectibles_141: -142070920
+      PizzaCollectibles_10: -602333645
+      PizzaCollectibles_4: -905725217
+      PizzaCollectibles_18: -1911970230
+      PizzaCollectibles_92: 1679164640
+      PizzaCollectibles_67: -1859772035
+      PizzaCollectibles_9: 2032015976
+      PizzaCollectibles_77: 392316451
+      PizzaCollectibles_66: -1016276834
+      PizzaCollectibles_159: 446781838
+      PizzaCollectibles_32: 365218583
+      PizzaCollectibles_112: -1355796144
+      PizzaCollectibles_121: -661595493
+      PizzaCollectibles_15: -1302157621
+      PizzaCollectibles_130: -1564987905
+      PizzaCollectibles_68: -1009574195
+      PizzaCollectibles_58: 413729993
+      PizzaCollectibles_52: -443482531
+      PizzaCollectibles_46: -1972568287
+      PizzaCollectibles_11: -1727105956
+      PizzaCollectibles_104: 1942125350
+      PizzaCollectibles_164: 1225282812
+      PizzaCollectibles_56: -940925566
+      PizzaCollectibles_82: 1152413477
+      PizzaCollectibles_85: 1415718
+      PizzaCollectibles_165: 647795895
+      PizzaCollectibles_98: -1603469124
+      PizzaCollectibles_172: 723975686
+      PizzaCollectibles_17: 491543775
+      PizzaCollectibles_110: -604021798
+      PizzaCollectibles_99: 243644923
+      PizzaCollectibles_122: 812190294
+      PizzaCollectibles_146: -1825140429
+      PizzaCollectibles_105: -525324379
+      PizzaCollectibles_132: 347724367
+      PizzaCollectibles_38: -1562186837
+      PizzaCollectibles_73: 1082473845
+      PizzaCollectibles_161: 2143959437
+      PizzaCollectibles_145: 71059249
+      PizzaCollectibles_35: 792599261
+      PizzaCollectibles_59: -1702384365
+      PizzaCollectibles_156: 1462857297
+      PizzaCollectibles_169: 28180120
+      PizzaCollectibles_43: 749214435
+      PizzaCollectibles_143: 2014534354
+      PizzaCollectibles_150: -1852681564
+      PizzaCollectibles_83: -1863535544
+      PizzaCollectibles_160: -1845694565
+      PizzaCollectibles_147: -807694734
+      PizzaCollectibles_44: 1630519037
+      PizzaCollectibles_154: -1348411573
+      PizzaCollectibles_76: 1541610980
+      PizzaCollectibles_74: -1574569557
+      PizzaCollectibles_7: 1488554064
+      PizzaCollectibles_118: -1698098607
+      PizzaCollectibles_21: -506139454
+      PizzaCollectibles_45: -2002954354
+      PizzaCollectibles_144: -1819465741
+      PizzaCollectibles_5: 10492089
+      PizzaCollectibles_28: 1971583814
+      PizzaCollectibles_88: 296332174
+      PizzaCollectibles_96: -699767005
+      PizzaCollectibles_152: -172346760
+      PizzaCollectibles_70: 406781065
+      PizzaCollectibles_54: -1747766996
+      PizzaCollectibles_113: 939645184
+      PizzaCollectibles_26: -1866519841
+      PizzaCollectibles_133: -340634291
+      PizzaCollectibles_94: -458514837
+      PizzaCollectibles_2: 966039978
+      PizzaCollectibles_106: 1439077298
+      PizzaCollectibles_91: 1718696963
+      PizzaCollectibles_124: -1825643400
+      PizzaCollectibles_109: -65475497
+      PizzaCollectibles_23: 1420089649
+      PizzaCollectibles_51: -523046019
+      PizzaCollectibles_71: 388197198
+      PizzaCollectibles_34: -236783560
+      PizzaCollectibles_140: -141073537
+      PizzaCollectibles_162: -672914144
+      PizzaCollectibles_137: 637930986
+      PizzaCollectibles_125: -2079344727
+      PizzaCollectibles_111: -1450873790
+      PizzaCollectibles_138: -663074633
+      PizzaCollectibles_63: 1433937275
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

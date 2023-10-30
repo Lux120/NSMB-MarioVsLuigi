@@ -10,7 +10,24 @@ using NSMB.Utils;
 
 public class PlayerController : MonoBehaviourPun, IFreezableEntity, ICustomSerializeView, IOnPhotonViewPreNetDestroy {
 
+  
+
     #region Variables
+
+
+     public Vector2 joystick = Vector2.zero; // Private field to store the joystick value
+
+    // Rest of the PlayerController code...
+
+    public Vector2 GetJoystickValue()
+    {
+        return joystick;
+    }
+
+    public void SetJoystickValue(Vector2 value)
+    {
+        joystick = value;
+    }
 
     // == NETWORKING VARIABLES ==
     private static readonly float EPSILON = 0.2f, RESEND_RATE = 0.5f;
@@ -112,7 +129,7 @@ public class PlayerController : MonoBehaviourPun, IFreezableEntity, ICustomSeria
 
     private bool powerupButtonHeld;
     private readonly float analogDeadzone = 0.35f;
-    public Vector2 joystick, giantSavedVelocity, previousFrameVelocity, previousFramePosition;
+    public Vector2  giantSavedVelocity, previousFrameVelocity, previousFramePosition;
 
     public GameObject onSpinner;
     public PipeManager pipeEntering;
