@@ -10307,8 +10307,8 @@ GameObject:
   - component: {fileID: 4824223341387914484}
   - component: {fileID: 2254935152879088866}
   - component: {fileID: 4824223341387914442}
-  - component: {fileID: 7672112719043132634}
   - component: {fileID: 2496339128398130277}
+  - component: {fileID: 7672112719043132634}
   - component: {fileID: 2102992499848127643}
   - component: {fileID: 5377451828833222271}
   - component: {fileID: 3452636116809643534}
@@ -10482,7 +10482,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   smallAvatar: {fileID: 9000000, guid: e0d3ef6bcff32414dbd34fc6ac031292, type: 3}
-  largeAvatar: {fileID: 9000000, guid: 61a2797e630baaa4f8b1021ce7d929da, type: 3}
+  largeAvatar: {fileID: 9000000, guid: 024ceb223bceebd488dbc425555f4df0, type: 3}
   dust: {fileID: 4824223342336871185}
   sparkles: {fileID: 4824223340723290478}
   drillParticle: {fileID: 599751029868069242}
@@ -10495,7 +10495,7 @@ MonoBehaviour:
   blueShell: {fileID: 3629787967981286811}
   propellerHelmet: {fileID: 8712194458326895251}
   propeller: {fileID: 8626919663303982960}
-  glowMaterial: {fileID: 2100000, guid: 2cfa80f93994da44c9bdacad018e6ff5, type: 2}
+  glowMaterial: {fileID: 0}
   primaryColor: {r: 0, g: 0, b: 0, a: 0}
   secondaryColor: {r: 0, g: 0, b: 0, a: 0}
   blinkDuration: 0.1
@@ -10586,18 +10586,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3460820d6c0f2b045999cb2484247103, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &7672112719043132634
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4824223341387914446}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbe023cea6fd5f842af136c8824b0710, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &2496339128398130277
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10611,6 +10599,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentPosition: {x: 0, y: 0, z: 0}
+--- !u!114 &7672112719043132634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4824223341387914446}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbe023cea6fd5f842af136c8824b0710, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &2102992499848127643
 MonoBehaviour:
   m_ObjectHideFlags: 0
